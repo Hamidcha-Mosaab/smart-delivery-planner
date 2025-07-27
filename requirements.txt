@@ -1,0 +1,7 @@
+requests
+geopy
+python-dotenv
+pandas
+scikit-learn
+joblib
+textblob
